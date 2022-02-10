@@ -24,7 +24,7 @@
     "gatsby-transformer-sharp": "^2.5.3",
     "get-mp3-duration": "^1.0.0",
     "node-fetch": "^2.6.0",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "prism-react-renderer": "^1.1.1",
     "prismjs": "^1.20.0",
     "prop-types": "^15.7.2",
