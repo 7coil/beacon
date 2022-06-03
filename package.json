@@ -13,7 +13,7 @@
     "gatsby-plugin-copy-files": "^1.0.3",
     "gatsby-plugin-feed": "^2.5.2",
     "gatsby-plugin-manifest": "^2.4.8",
-    "gatsby-plugin-mdx": "^1.2.11",
+    "gatsby-plugin-mdx": "^2.14.1",
     "gatsby-plugin-offline": "^3.2.6",
     "gatsby-plugin-page-creator": "^2.3.6",
     "gatsby-plugin-react-helmet": "^3.3.2",
