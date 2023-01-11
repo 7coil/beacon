@@ -20,7 +20,7 @@
     "gatsby-plugin-sass": "^2.3.2",
     "gatsby-plugin-sharp": "^2.6.8",
     "gatsby-source-filesystem": "^2.3.7",
-    "gatsby-transformer-remark": "^2.8.12",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^2.5.3",
     "get-mp3-duration": "^1.0.0",
     "node-fetch": "^2.6.0",
